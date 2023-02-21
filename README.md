@@ -1,2 +1,10 @@
-# macedonian-stock-exchange-paper
-MSE paper
+# Македонска Берза - труд (Macedonian Stock Exchange)
+### The contents in the paper are in macedonian, any contributions for translations are welcomed or if you want to read it may google translate help you on the way
+
+## Абстракт
+### Овој семниарски труд навлегува во историјата, суштината, правилата и законските регулативи на самата берза. Истиот го осознава читателот со сите структурни тела на самата берза како истите делуваат и како истите функционираат. Навлегува во процесите на тргувње, котирање, членство,дисциплинските  остапки,арбитражните процеси,регулативите за корпоративно управување и во сегашаната структура на котирании хартии од вредност со кои се тргува. Во истиот не се навлегува во детална анализа на индексите и самите хартии од вредност поради и самата цел на истот. т.е Целта на овој семинарски труд е да се осознае структурата и начинот на функционирање на акционерското друштво. Покрај тоа законите за хартии од вредност, инвестициски фонодови не се користени поради нивниот обем и нивното отсуство од неопходност да се постигне целта. Истите се повеќе насочени кон регулирањето и односите на истите инструменти, институции.
+## Abstract
+### This paper goes into the history, structure, laws of the stock exchange. It give the reader all the knowledge to the structural bodies of the exchange, how they operate and function. It goes into the the processes of trading, listing, membership (seats), disciplinary procedures, arbitrage procedures, regulative regarding the corporate management and the current structure of listed securities which are traded. The paper as it is doesn’t analyze the indexes and the securities separately, because the main point of the paper isn’t including that. The main point of the paper is to explain the structure and the way of functioning of the public limited company (Македонска Берза АД Скопје). Despite that the laws regarding securities and investment founds aren’t used as resources, because of their sheer volume and the absence of the need to do so to achieve the main point. These laws are more inclined to the regulation and the relations concerning the securities and the institutions as such.
+
+# This is not legal advice just a paper which makes you somewhat knowledgable about the exchange.
+## Ова не е правно советување, едноставно труд кој што може да се црпи за проширување на знаењето за берзата.
