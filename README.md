@@ -8,3 +8,5 @@
 
 # This is not legal advice just a paper which makes you somewhat knowledgable about the exchange.
 ## Ова не е правно советување, едноставно труд кој што може да се црпи за проширување на знаењето за берзата.
+
+# All of the surplus documents used as resources can be found public aviable an as laws don't have any copyright claims on them.
